@@ -1,0 +1,13 @@
+{
+    "Token": "",
+    "Prefix": "$",
+    "clientid": "",
+    "Activity": ["discord.gg/pMJSU7wMnN.", "Free Palestine", "discord.gg/pMJSU7wMnN."],
+    "owner": ["", ""],
+    "Status": "Streaming",
+    "Stream": {
+        "type": "STREAMING",
+        "url": "https://www.twitch.tv/Palestine",
+        "description": "Palestine"
+    }
+}
